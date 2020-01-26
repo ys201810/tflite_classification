@@ -1,0 +1,7 @@
+**/*.pyc
+**/.DS_Store
+**/.idea
+**/.ipynb_checkpoints
+
+app/src/main/assets/**
+
